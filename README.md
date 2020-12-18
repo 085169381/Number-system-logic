@@ -1,1 +1,2 @@
-# Number-system-logic
+## 1的補數補數
+（complement）是對於給定的進位制，相加後能使自然數 a 的位數增加 1 的最小的數。可以在計算電路中，代替減{\displaystyle x}x的操作，而僅僅使用加法元器件（加法器）的「加上{\displaystyle x}x的補數（無視最高位的進位）」，達到相同的效果。
